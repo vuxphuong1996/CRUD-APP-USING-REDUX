@@ -1,0 +1,6 @@
+export const ACTION = {
+    ADDUSER : "ADDUSER",
+    EDITUSER : "EDITUSER",
+    DELETEUSER : "DELETEUSER",
+    SHOWUSER : "SHOWUSER"
+}

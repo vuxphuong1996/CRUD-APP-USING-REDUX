@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "fullname": "Phuong Hai",
+      "address": "Hai Duong",
+      "email": "phuonghai@gmail.com",
+      "id": "b6dabfab-d14e-4013-a566-f141f07f69ec"
+    },
+    {
+      "fullname": "Quang Tu",
+      "address": "Hai Phong",
+      "email": "quagtu@gmail.com",
+      "id": "548fcf6f-7ab5-4409-be66-1667c0c1f0f6"
+    },
+    {
+      "fullname": "Van Quang",
+      "address": "Ha Long",
+      "email": "tuyenquang@gmail.com",
+      "id": "e6b0739b-7340-4781-a9b9-c18c66276b23"
+    },
+    {
+      "fullname": "Tai Tu",
+      "address": "Kiem Hiep Kim Dung",
+      "email": "taitu@gmail.com",
+      "id": "22dbd88f-3e23-4bd1-b81a-8d984c2a98f1"
+    }
+  ]
+}
